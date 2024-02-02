@@ -4,4 +4,4 @@ cd Zakikhan
 
 ls
 
-python Zaki1.py
+python zaki1.py
